@@ -1,0 +1,10 @@
+/build/
+/bin/
+/.xmake/
+/lightdocs/
+*.so
+*.levipack
+*.sym
+*.pdb
+__pycache__/
+.idea
