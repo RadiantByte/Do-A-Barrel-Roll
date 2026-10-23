@@ -33,6 +33,10 @@ xmake -y
 
 The build produces `bin/DoABarrelRoll.so` and `bin/DoABarrelRoll.levipack`.
 
+## Credits
+
+The Android mod is based on [Do-A-Barrel-Roll-Bedrock](https://github.com/theaddonn/Do-A-Barrel-Roll-Bedrock) by **theaddonn**.
+
 ## License
 
 Do a Barrel Roll is licensed under the [GNU General Public License v3.0](LICENSE).
